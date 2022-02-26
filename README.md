@@ -17,4 +17,4 @@
 
 
  
-[![BRashad's github stats](https://github-readme-stats.vercel.app/api?username=BRasahd&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BRashad/github-readme-stats)
+[![BRashad's github stats](https://github-readme-stats.vercel.app/api?username=BRashad&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/BRashad/github-readme-stats)
