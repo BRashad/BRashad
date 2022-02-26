@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on special bot for Kids of age 7-15
 - 🌱 I’m learning TypeScript, React Native, AWS
 - 🌱 I’m improving my knowledge of JavaScript, React, MongoDB
-- 📫 How to reach me: rashadabayram@gmail.com
+- 📫 How to reach me: 
+- :email: [Email]: rashadabayram@gmail.com
 - 💼 [LinkedIn]: (https://www.linkedin.com/in/rashadbayram/)
 
 
