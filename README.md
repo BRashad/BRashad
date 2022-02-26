@@ -9,7 +9,7 @@
   - 💼 [LinkedIn]: (https://www.linkedin.com/in/rashadbayram/)
 
 
-:zap: I love programming, building solutions adn tech overall.
+:zap: I love programming, building solutions and tech overall.
 - 🌱 I try to learn something new every day
 
 
