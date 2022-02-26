@@ -9,9 +9,9 @@
   - 💼 [LinkedIn]: (https://www.linkedin.com/in/rashadbayram/)
 
 
-:zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+:zap: I love programming, building solutions adn tech overall.
+- 🌱 I try to learn something new every day
+
 
 
 
