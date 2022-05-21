@@ -5,7 +5,7 @@
 - 🌱 I’m learning TypeScript, React Native, AWS
 - 🌱 Improving my knowledge of JavaScript, React, MongoDB
 - 📫 How to reach me: 
-  - :email: [Email]: rashad@rashadabayram.com
+  - :email: [Email]: rashad@rashadbayram.com
   - 💼 [LinkedIn]: (https://www.linkedin.com/in/rashadbayram/)
 
 
